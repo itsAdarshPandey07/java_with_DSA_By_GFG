@@ -1,4 +1,5 @@
 package BASIC_Sorting;
+//stability of bubble sort means(order of element is same)
 public class Bubble_sort {
     public static void print(int[]arr){
         for(int ele:arr){
